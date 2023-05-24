@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-starter-leaflet",
-  "title": "Gatsby Starter Leaflet",
-  "description": "A Gatsby starter with Leafet!",
+  "name": "pitt-road-trip",
+  "title": "Pittsburgh Road Trip",
+  "description": "A Pitt Road Trip",
   "version": "0.3.0",
   "author": {
-    "name": "Colby Fayock",
-    "email": "hello@colbyfayock.com",
-    "url": "https://twitter.com/colbyfayock"
+    "name": "Greg",
+    "email": "singleprocessmarketing@gmail.com",
+    "url": "https://twitter.com/"
   },
   "dependencies": {
     "cypress": "^10.1.0",
